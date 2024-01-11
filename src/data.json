@@ -1,0 +1,182 @@
+[
+  {
+    "id": "1",
+    "group": "HR Policies",
+    "name": "Employee Handbook",
+    "jobTemplate": "Template1",
+    "location": "Location1",
+    "subsidiary": "Subsidiary1",
+    "seniority": "Senior1"
+  },
+  {
+    "id": "2",
+    "group": "HR Policies",
+    "name": "Company Drug Policy",
+    "jobTemplate": "Template2",
+    "location": "Location2",
+    "subsidiary": "Subsidiary2",
+    "seniority": "Senior2"
+  },
+  {
+    "id": "3",
+    "group": "Finance Documents",
+    "name": "Expense Reimbursement Guidelines",
+    "jobTemplate": "Template3",
+    "location": "Location3",
+    "subsidiary": "Subsidiary3",
+    "seniority": "Senior3"
+  },
+  {
+    "id": "4",
+    "group": "IT Policies",
+    "name": "Acceptable Use Policy",
+    "jobTemplate": "Template4",
+    "location": "Location4",
+    "subsidiary": "Subsidiary4",
+    "seniority": "Senior4"
+  },
+  {
+    "id": "5",
+    "group": "IT Policies",
+    "name": "Security Awareness Training",
+    "jobTemplate": "Template5",
+    "location": "Location5",
+    "subsidiary": "Subsidiary5",
+    "seniority": "Senior5"
+  },
+  {
+    "id": "6",
+    "group": "Legal Documents",
+    "name": "Non-Disclosure Agreement",
+    "jobTemplate": "Template6",
+    "location": "Location6",
+    "subsidiary": "Subsidiary6",
+    "seniority": "Senior6"
+  },
+  {
+    "id": "7",
+    "group": "Employee Manuals",
+    "name": "Code of Conduct",
+    "jobTemplate": "Template7",
+    "location": "Location7",
+    "subsidiary": "Subsidiary7",
+    "seniority": "Senior7"
+  },
+  {
+    "id": "8",
+    "group": "Employee Manuals",
+    "name": "Dress Code Policy",
+    "jobTemplate": "Template8",
+    "location": "Location8",
+    "subsidiary": "Subsidiary8",
+    "seniority": "Senior8"
+  },
+  {
+    "id": "9",
+    "group": "Finance Documents",
+    "name": "Budget Approval Process",
+    "jobTemplate": "Template9",
+    "location": "Location9",
+    "subsidiary": "Subsidiary9",
+    "seniority": "Senior9"
+  },
+  {
+    "id": "10",
+    "group": "Legal Documents",
+    "name": "Trademark Policy",
+    "jobTemplate": "Template10",
+    "location": "Location10",
+    "subsidiary": "Subsidiary10",
+    "seniority": "Senior10"
+  },
+  {
+    "id": "11",
+    "group": "IT Policies",
+    "name": "Data Security Guidelines",
+    "jobTemplate": "Template11",
+    "location": "Location11",
+    "subsidiary": "Subsidiary11",
+    "seniority": "Senior11"
+  },
+  {
+    "id": "12",
+    "group": "Employee Manuals",
+    "name": "Onboarding Checklist",
+    "jobTemplate": "Template12",
+    "location": "Location12",
+    "subsidiary": "Subsidiary12",
+    "seniority": "Senior12"
+  },
+  {
+    "id": "13",
+    "group": "HR Policies",
+    "name": "Equal Employment Opportunity Policy",
+    "jobTemplate": "Template13",
+    "location": "Location13",
+    "subsidiary": "Subsidiary13",
+    "seniority": "Senior13"
+  },
+  {
+    "id": "14",
+    "group": "Finance Documents",
+    "name": "Expense Reporting Procedures",
+    "jobTemplate": "Template14",
+    "location": "Location14",
+    "subsidiary": "Subsidiary14",
+    "seniority": "Senior14"
+  },
+  {
+    "id": "15",
+    "group": "Legal Documents",
+    "name": "Privacy Policy",
+    "jobTemplate": "Template15",
+    "location": "Location15",
+    "subsidiary": "Subsidiary15",
+    "seniority": "Senior15"
+  },
+  {
+    "id": "16",
+    "group": "Employee Manuals",
+    "name": "Performance Review Guidelines",
+    "jobTemplate": "Template16",
+    "location": "Location16",
+    "subsidiary": "Subsidiary16",
+    "seniority": "Senior16"
+  },
+  {
+    "id": "17",
+    "group": "IT Policies",
+    "name": "Software Usage Policy",
+    "jobTemplate": "Template17",
+    "location": "Location17",
+    "subsidiary": "Subsidiary17",
+    "seniority": "Senior17"
+  },
+  {
+    "id": "18",
+    "group": "HR Policies",
+    "name": "Family and Medical Leave Policy",
+    "jobTemplate": "Template18",
+    "location": "Location18",
+    "subsidiary": "Subsidiary18",
+    "seniority": "Senior18"
+  },
+  {
+    "id": "19",
+    "group": "Finance Documents",
+    "name": "Financial Audit Guidelines",
+    "jobTemplate": "Template19",
+    "location": "Location19",
+    "subsidiary": "Subsidiary19",
+    "seniority": "Senior19"
+  },
+  {
+    "id": "20",
+    "group": "Legal Documents",
+    "name": "Contracts Management Policy",
+    "jobTemplate": "Template20",
+    "location": "Location20",
+    "subsidiary": "Subsidiary20",
+    "seniority": "Senior20"
+  }
+]
