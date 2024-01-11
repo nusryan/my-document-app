@@ -1,7 +1,7 @@
 const FilterSection = () => {
   return (
     <div className="mb-4">
-      <h3 className="text-sm font-bold mb-2">Filter by:</h3>
+      <h3 className="text-sm font-medium mb-2">Filter by:</h3>
       <div className="grid grid-cols-2 gap-4">
         <div className="relative">
           <select className="border py-2 px-4 w-full rounded-lg">

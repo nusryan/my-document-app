@@ -30,10 +30,9 @@ const SelectedDocuments: React.FC = () => {
   );
 
   return (
-    <div className="w-1/2 p-4 bg-white rounded-lg flex flex-col">
+    <div className="w-1/2 p-4 bg-white rounded-lg flex flex-col border border-gray-200">
       <div className="mb-4">
-        <h2 className="text-lg font-bold mb-2">Selected documents</h2>
-        {/* Implement your list of selected documents */}
+        <h2 className="font-medium mb-2">Selected documents</h2>
       </div>
       <div className="flex items-center space-x-2 mb-4">
         <div className="relative w-full">
@@ -60,7 +59,7 @@ const SelectedDocuments: React.FC = () => {
             {filteredDocuments.map(document => (
               <div key={document.id} className="my-5 flex items-center">
                 <FontAwesomeIcon icon={faCheck} className="text-green-600 pr-4" />
-                <span className="text-sm">{document.name}</span>
+                <span className="text-sm font-medium">{document.name}</span>
                 <button onClick={() => handleDocumentUnselect(document)} className="px-2 py-0 ml-auto border border-gray-300 bg-white rounded-md">
                   <FontAwesomeIcon icon={faTimes} className="text-sm" />
                 </button>
